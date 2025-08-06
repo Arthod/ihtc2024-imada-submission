@@ -5,10 +5,12 @@ Repository consisting of the submission of Team SDU-IMADA to the [IHTC-2024](htt
 - [Ahmad Mahir Othman](https://github.com/Arthod "Ahmad Mahir Othman")
 - [Marco Chiarandini](https://github.com/belzebuu "Marco Chiarandini")
 
+Department of Mathematics and Computer Science (IMADA) @ University of Southern Denmark (SDU).
+
 ## Submission
 Other than the code for the algorithm, the following were also submitted to the competition and are included in the repository:
-- Short description of the algorithm
-- Computed solutions for the public instances and a statistics file of these
+- Short description of the algorithm found [here](https://github.com/Arthod/ihtc2024-imada-submission/blob/main/report.pdf "here").
+- Computed solutions for the public instances [here](https://github.com/Arthod/ihtc2024-imada-submission/tree/main/solutions "here") and an overview file of these [here](https://github.com/Arthod/ihtc2024-imada-submission/blob/main/solutions/score.csv "here").
 
 ## EURO 2025 in Leeds
 During the [EURO 2025](https://euro2025leeds.uk/ "EURO 2025") conference in Leeds, we had the opportunity to present our submission in the Automated Timetabling stream in a [session](https://www.euro-online.org/conf/euro34/edit_session_cluster?sessid=515 "session") dedicated to the IHTC. Abstract for the talk can be found [here](https://www.euro-online.org/conf/euro34/treat_abstract?frompage=search&paperid=2774 "here") and the slides of the presentation here.
