@@ -9,7 +9,7 @@ The members of the team are:
 - [Ahmad Mahir Othman](https://github.com/Arthod "Ahmad Mahir Othman")
 - [Marco Chiarandini](https://github.com/belzebuu "Marco Chiarandini")
 
-At the time of the competition both members were affiliated to the Department of
+At the time of the competition, both members were affiliated to the Department of
 Mathematics and Computer Science (IMADA) of the University of Southern Denmark
 (SDU).
 
@@ -19,7 +19,7 @@ ranked 1st in the open-source only track and 2nd overall.
 ## Brief Description
 
 The C++ code is the submitted implementation of a heuristic algorithm for the
-interated healthcare timetabling problem, which was object of the IHTC-2024
+integrated healthcare timetabling problem, which was the object of the IHTC-2024
 competition. The algorithm is based on a multi-neighborhood local search guided
 first by simulated annealing and in the last phase of search by iterated local
 search.  The algorithm is designed to be efficient and scalable, allowing it to
@@ -56,15 +56,15 @@ assumes that the source files are located in the `src/` directory. The object
 files will be placed in the `build/obj/` directory, and the executable will be placed
 in the `build/` directory.
 
-The executeable can be run as follows with optional arguments:
+The executable can be run as follows with optional arguments:
 ```
 ./build/main [input=../data/ihtc2024_competition_dataset/i01.json] [seed=rnd] [output=out/sol_{...}.json] [debug_level=0]
 ```
 where
-- `input` is input file with i01.json as default. 
-- `seed` is seed with random as default.
-- `output` is location to write output file.
-- `debug_level` the verbose level. See `config.h` for more info.
+- `input` is the input file with i01.json as default. 
+- `seed` is the seed with random as default.
+- `output` is the location to write the output file.
+- `debug_level` is the verbose level. See `config.h` for more info.
 
 For any questions, please do not hesitate to contact the authors via GitHub or
 open an issue in this repository.
