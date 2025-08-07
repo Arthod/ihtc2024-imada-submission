@@ -68,3 +68,8 @@ where
 
 For any questions, please do not hesitate to contact the authors via GitHub or
 open an issue in this repository.
+
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
