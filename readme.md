@@ -37,7 +37,7 @@ its performance:
 - The presentation given at the [EURO 2025 conference](https://euro2025leeds.uk/
   "EURO 2025") in Leeds.
   [Abstract](https://www.euro-online.org/conf/euro34/treat_abstract?frompage=search&paperid=2774
-  "EURO 2025") and slides [pdf](./doc/presentation.pdf "pdf")
+  "EURO 2025") and slides [pdf](./doc/euro2025-slides.pdf "pdf")
 
 - An article to be sumbmitted to the Special Issue on the
   IHTC-2024 of the journal /Operations Research, Data Analytics and Logistics/.
