@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Othman
+    given-names: Ahmad Mahir
+    orcid: https://orcid.org/0009-0008-9458-5973
+  - family-names: Chiarandini
+    given-names: Marco
+    orcid: https://orcid.org/0000-0002-6136-8496
+title: "SDU-IMADA Entry to the IHTC 2024"
+version: 1.0.0
+date-released: 2025-08-08
