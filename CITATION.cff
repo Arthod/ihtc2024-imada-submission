@@ -1,13 +1,16 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
+title: SDU-IMADA Entry to the IHTC 2024
+message: "If you use this software, please cite it as below."
+type: software
 authors:
-  - family-names: Othman
-    given-names: Ahmad Mahir
-    orcid: https://orcid.org/0009-0008-9458-5973
-  - family-names: Chiarandini
-    given-names: Marco
-    orcid: https://orcid.org/0000-0002-6136-8496
-title: "SDU-IMADA Entry to the IHTC 2024"
-version: 1.0.0
-date-released: 2025-08-08
-url: "https://github.com/Arthod/ihtc2024-imada-submission"
+  - given-names: Ahmad Mahir
+    family-names: Othman
+    orcid: 'https://orcid.org/0009-0008-9458-5973'
+  - given-names: Marco
+    family-names: Chiarandini
+    orcid: 'https://orcid.org/0000-0002-6136-8496'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17726567
+  - type: url
+    value: 'https://github.com/Arthod/ihtc2024-imada-submission'
