@@ -72,13 +72,13 @@ open an issue in this repository.
 ## Cite
 If this software or its results contribute to your research, please cite as below:
 ```
-@software{Othman_SDU-IMADA_Entry_to_2025,
+@software{Othman_SDU-IMADA_Entry_to,
     author  = {Othman, Ahmad Mahir and Chiarandini, Marco},
     month   = aug,
-    title = {SDU-IMADA Entry to the IHTC 2024},
-    url = {https://github.com/Arthod/ihtc2024-imada-submission},
-    version = {1.0.0},
-    year = {2025}
+    doi     = {10.5281/zenodo.17726567},
+    title   = {{SDU-IMADA Entry to the IHTC 2024}},
+    url     = {https://github.com/Arthod/ihtc2024-imada-submission}
+    year    = {2025}
 }
 ```
 
