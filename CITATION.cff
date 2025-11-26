@@ -9,8 +9,5 @@ authors:
   - given-names: Marco
     family-names: Chiarandini
     orcid: 'https://orcid.org/0000-0002-6136-8496'
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.17726567
-  - type: url
-    value: 'https://github.com/Arthod/ihtc2024-imada-submission'
+doi: 10.5281/zenodo.17726567
+url: 'https://github.com/Arthod/ihtc2024-imada-submission'
